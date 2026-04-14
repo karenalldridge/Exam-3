@@ -1,4 +1,4 @@
-(1) make a change to the first line of the file - making a change in the first line - making another change to this line... 
+(1) make a change to the first line of the file - making a change in the first line - making another change to the change 
 • (1) push the repo
 • (2) make a change to the first line of the file
 • (2) push the repo (this should result in a conflict)
