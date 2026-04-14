@@ -5,4 +5,4 @@
 #(1) pull the repo (the changes should be merged automatically)
 #(1) push the repo
 #(2) pull the repo
-#Both collaborators now have identical copies of #1’s repo
+#Both collaborators now have identical copies of #1’s repo - change to the last line
