@@ -1,0 +1,11 @@
+(1) make a change to the first line of the file- making change to first line
+
+• (1) push the repo
+• (2) make a change to the first line of the file
+• (2) push the repo (this should result in a conflict)
+• (2) pull the repo
+• (2) manually fix the conflicts (both versions of the conflicting lines are indicated in
+the file)
+• (2) push the repo
+• (1) pull the repo
+Both collaborators now have identical copies of #1’s repo
